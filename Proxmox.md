@@ -9,7 +9,7 @@ For now I would be interested in:
 * How to setup the client LXC to split connections VPN/normal?
 ### VPN tunnel
 Some link's I found online on how to get started.
-* (Proxmox - Wireguard VPN)[https://blog.evm9.dev/posts/00_prox_vpn/]
-* (NordVPN and Wireguard)[https://myshittycode.com/2024/06/08/nordvpn-extracting-wireguard-configuration/#why-this-extra-step-when-using-nord-vpn]
-* (Route traffic trough VPN in Proxmox)[https://www.reddit.com/r/Proxmox/comments/10rfi64/help_route_part_of_my_traffic_through_my_vpn/]
-* (Tool for generating Wireguard config from NordVPN)[https://www.reddit.com/r/nordvpn/comments/wgifjl/comment/ij7gfdt/]
+* [Proxmox - Wireguard VPN](https://blog.evm9.dev/posts/00_prox_vpn/)
+* [NordVPN and Wireguard](https://myshittycode.com/2024/06/08/nordvpn-extracting-wireguard-configuration/#why-this-extra-step-when-using-nord-vpn)
+* [Route traffic trough VPN in Proxmox](https://www.reddit.com/r/Proxmox/comments/10rfi64/help_route_part_of_my_traffic_through_my_vpn/)
+* [Tool for generating Wireguard config from NordVPN](https://www.reddit.com/r/nordvpn/comments/wgifjl/comment/ij7gfdt/)
